@@ -1,10 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
-#IMPORTING LIBRARIES                                                  
 import subprocess
 import wolframalpha
 import pyttsx3
